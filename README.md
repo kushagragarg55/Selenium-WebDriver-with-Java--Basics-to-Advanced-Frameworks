@@ -43,3 +43,8 @@ CLoud Automation with Sauce labs
 AutoIT- Desktop Automation integration with Selenium
 
 Bonus lecture- Bugzilla defect tool management.
+
+what is difference between selenium and webdriver?
+![Screenshot 2021-05-23 at 11 29 52 PM](https://user-images.githubusercontent.com/37777458/119271349-ce3bd300-bc1e-11eb-8151-06c85aa931a1.png)
+
+
